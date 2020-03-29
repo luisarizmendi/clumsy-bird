@@ -6,6 +6,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ellisonleao/clumsy-bird"
+  },"scripts": {
+      "start": "grunt connect"
   },
   "bugs": {
     "url": "https://github.com/ellisonleao/clumsy-bird/issues"
